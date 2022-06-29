@@ -1,4 +1,8 @@
 body{
-    background-color: blue;
+    background-color: rgb(255, 0, 34);
     color: whitesmoke;
 }
+
+h1 
+   font-size: Sem;
+   color: darkblue
